@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="Theme.InstaGrab" parent="android:Theme.Material.NoTitleBar">
-        <item name="android:windowBackground">@android:color/black</item>
+    <style name="Theme.InstaGrab" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <item name="android:statusBarColor">#0A0A0F</item>
         <item name="android:navigationBarColor">#0A0A0F</item>
     </style>
